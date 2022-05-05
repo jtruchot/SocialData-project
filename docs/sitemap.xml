@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jtruchot.github.io/SocialData-project/categories/</loc>
+    <loc>https://jtruchot.github.io/SocialData-project/posts/environment-nyc/</loc>
+    <lastmod>2022-05-05T22:54:37+02:00</lastmod>
   </url><url>
     <loc>https://jtruchot.github.io/SocialData-project/</loc>
+    <lastmod>2022-05-05T22:54:37+02:00</lastmod>
+  </url><url>
+    <loc>https://jtruchot.github.io/SocialData-project/posts/</loc>
+    <lastmod>2022-05-05T22:54:37+02:00</lastmod>
+  </url><url>
+    <loc>https://jtruchot.github.io/SocialData-project/categories/</loc>
   </url><url>
     <loc>https://jtruchot.github.io/SocialData-project/tags/</loc>
   </url>
