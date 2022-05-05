@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jtruchot.github.io/SocialData-project/'
 languageCode = 'en-us'
 title = 'Our cool project about environment and NYC'
 theme = "ananke"
