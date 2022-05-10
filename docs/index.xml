@@ -14,7 +14,8 @@
       
       <guid>https://jtruchot.github.io/SocialData-project/posts/environment-nyc/</guid>
       <description>Map of New-York City
-This project was made in the purpose of the course Social Data Analysis and Visualisation from spring 2022 at the Technical University of Denmark (DTU).</description>
+This project was made in the purpose of the course Social Data Analysis and Visualisation from spring 2022 at the Technical University of Denmark (DTU).
+ window.PlotlyConfig = {MathJaxConfig: \&#39;local\&#39;};   window.PLOTLYENV=window.PLOTLYENV || {}; if (document.getElementById(&#34;578f562c-2ebc-41bd-ad2d-be148492416a&#34;)) { Plotly.newPlot( &#34;578f562c-2ebc-41bd-ad2d-be148492416a&#34;, [{&#34;coloraxis&#34;:&#34;coloraxis&#34;,&#34;customdata&#34;:[[&#34;Astoria&#34;,0.02122],[&#34;Battery Park/Tribeca&#34;,0.0],[&#34;Bay Ridge&#34;,8e-05],[&#34;Bayside&#34;,0.0],[&#34;Bedford Park&#34;,0.0],[&#34;Bedford Stuyvesant&#34;,0.16822],[&#34;Bensonhurst&#34;,0.0],[&#34;Borough Park&#34;,0.27662],[&#34;Brownsville&#34;,0.2601],[&#34;Bushwick&#34;,0.03424],[&#34;Canarsie&#34;,0.02243],[&#34;Central Harlem&#34;,0.05375],[&#34;Chelsea/Clinton&#34;,0.0],[&#34;Concourse/Highbridge&#34;,0.15539],[&#34;Coney Island&#34;,0.14175],[&#34;Crown Heights North&#34;,0.10178],[&#34;Crown Heights South&#34;,0.01073],[&#34;East Flatbush&#34;,0.02114],[&#34;East Harlem&#34;,0.2062],[&#34;East New York&#34;,0.1023],[&#34;East Tremont&#34;,0.48573],[&#34;Elmhurst/Corona&#34;,0.0],[&#34;Flatbush/Midwood&#34;,0.0],[&#34;Flushing&#34;,0.0],[&#34;Fort Greene/Brooklyn Hts&#34;,0.07473],[&#34;Fresh Meadows/Briarwood&#34;,0.0],[&#34;Greenwich Village&#34;,0.0],[&#34;Howard Beach&#34;,0.0],[&#34;Hunts Point&#34;,0.2658],[&#34;Jackson Heights&#34;,0.0],[&#34;Jamaica/St. Albans&#34;,0.00052],[&#34;Lower East Side&#34;</description>
     </item>
     
   </channel>
